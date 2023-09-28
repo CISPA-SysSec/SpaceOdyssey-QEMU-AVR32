@@ -45,7 +45,7 @@
 #define RM3100_STATUS 0x34
 #define RM3100_HSHAKE 0x35
 
-#define RM3100_REG_COUNT 0x37
+#define RM3100_REG_COUNT 0x37+1
 
 
 struct RM3100State {
